@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import './index.scss';
-import LogoS from '../../assets/images/logo-s.png';
+import LogoA from '../../assets/images/logo-a.png';
 import LogoSubstitles from '../../assets/images/logo_sub.png';
 
 const Sidebar = () => (
@@ -9,7 +9,7 @@ const Sidebar = () => (
 {/* default home page */}
 
         <Link className='logo' to='/'>
-            <img src={LogoS} alt="logo" />
+            <img src={LogoA} alt="logo" />
             <img className="sub-logo" src={LogoSubstitles} alt="slobodan" />
         </Link>
     </div>
