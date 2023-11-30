@@ -3,6 +3,7 @@ import LogoTitle from '../../assets/images/logo-a.png';
 import './index.scss';
 import AnimatedLetters from '../AnimatedLetters';
 import { useEffect, useState } from 'react';
+import Logo from './Logo';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
@@ -38,7 +39,7 @@ const Home = () => {
                 <h2> Software engineer</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
-
+        <Logo />
         </div>
     );
 }
