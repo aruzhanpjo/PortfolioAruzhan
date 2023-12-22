@@ -11,8 +11,8 @@ const Home = () => {
     const nameArray = ['r', 'u', 'z', 'h', 'a', 'n'];
     const jobArray = ['w', 'e', 'b', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.']
 
-    useEffect(() => {
-        return setTimeout(() => {
+    useEffect( () => {
+        setTimeout(() => {
             setLetterClass('text-animate-hover')
         }, 4000)
     }, [])

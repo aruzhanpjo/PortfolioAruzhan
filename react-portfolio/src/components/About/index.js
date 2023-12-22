@@ -11,7 +11,7 @@ const About = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
 
     useEffect(() => {
-        return setTimeout(() => {
+        setTimeout(() => {
             setLetterClass('text-animate-hover')
         }, 3000)
     }, [])
@@ -72,4 +72,4 @@ const About = () => {
     )
 }
 
-export default About
+export default About;
