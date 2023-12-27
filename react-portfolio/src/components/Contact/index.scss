@@ -1,6 +1,10 @@
 .contact-form {
     width: 100%;
-    margin-top: 20px;
+    margin-top: 5px;
+
+    form{
+        padding: 0;
+    }
 
 
     ul {
@@ -54,5 +58,15 @@
         padding: 20px;
         min-height: 400px;
         box-sizing: border-box;
+    }
+
+    .flat-button {
+        color: #fff;
+        background: 0 0;
+        font: 11px;
+        letter-spacing: 3px;
+        text-decoration: none;
+        padding: 8px 10px;
+        border: 1px solid;
     }
 }
