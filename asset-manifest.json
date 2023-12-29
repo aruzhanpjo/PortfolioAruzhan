@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PortfolioAruzhan%20/static/css/main.cd2f27f9.css",
+    "main.js": "/PortfolioAruzhan%20/static/js/main.8012a8b6.js",
+    "static/js/787.cf482a7c.chunk.js": "/PortfolioAruzhan%20/static/js/787.cf482a7c.chunk.js",
+    "static/media/helvetica-neu.ttf": "/PortfolioAruzhan%20/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/PortfolioAruzhan%20/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo_sub.png": "/PortfolioAruzhan%20/static/media/logo_sub.d0910a0213cdf9e4a03c.png",
+    "static/media/logo-a.png": "/PortfolioAruzhan%20/static/media/logo-a.9e95ec635b67e92b4cc5.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/PortfolioAruzhan%20/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/PortfolioAruzhan%20/index.html",
+    "main.cd2f27f9.css.map": "/PortfolioAruzhan%20/static/css/main.cd2f27f9.css.map",
+    "main.8012a8b6.js.map": "/PortfolioAruzhan%20/static/js/main.8012a8b6.js.map",
+    "787.cf482a7c.chunk.js.map": "/PortfolioAruzhan%20/static/js/787.cf482a7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2f27f9.css",
+    "static/js/main.8012a8b6.js"
+  ]
+}
