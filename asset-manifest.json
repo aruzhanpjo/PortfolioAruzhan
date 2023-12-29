@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/PortfolioAruzhan/static/css/main.56e1328a.css",
-    "main.js": "/PortfolioAruzhan/static/js/main.3a527096.js",
-    "static/js/787.cf482a7c.chunk.js": "/PortfolioAruzhan/static/js/787.cf482a7c.chunk.js",
-    "static/media/helvetica-neu.ttf": "/PortfolioAruzhan/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/PortfolioAruzhan/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo_sub.png": "/PortfolioAruzhan/static/media/logo_sub.d0910a0213cdf9e4a03c.png",
-    "static/media/logo-a.png": "/PortfolioAruzhan/static/media/logo-a.9e95ec635b67e92b4cc5.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/PortfolioAruzhan/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/PortfolioAruzhan/index.html",
-    "main.56e1328a.css.map": "/PortfolioAruzhan/static/css/main.56e1328a.css.map",
-    "main.3a527096.js.map": "/PortfolioAruzhan/static/js/main.3a527096.js.map",
-    "787.cf482a7c.chunk.js.map": "/PortfolioAruzhan/static/js/787.cf482a7c.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.064caefc.css",
+    "main.js": "/react-portfolio/static/js/main.980d016c.js",
+    "static/js/787.cf482a7c.chunk.js": "/react-portfolio/static/js/787.cf482a7c.chunk.js",
+    "static/media/helvetica-neu.ttf": "/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo_sub.png": "/react-portfolio/static/media/logo_sub.d0910a0213cdf9e4a03c.png",
+    "static/media/logo-a.png": "/react-portfolio/static/media/logo-a.9e95ec635b67e92b4cc5.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-portfolio/index.html",
+    "main.064caefc.css.map": "/react-portfolio/static/css/main.064caefc.css.map",
+    "main.980d016c.js.map": "/react-portfolio/static/js/main.980d016c.js.map",
+    "787.cf482a7c.chunk.js.map": "/react-portfolio/static/js/787.cf482a7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56e1328a.css",
-    "static/js/main.3a527096.js"
+    "static/css/main.064caefc.css",
+    "static/js/main.980d016c.js"
   ]
 }
