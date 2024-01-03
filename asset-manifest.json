@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioAruzhan/static/css/main.56e1328a.css",
-    "main.js": "/PortfolioAruzhan/static/js/main.ba1abba0.js",
+    "main.js": "/PortfolioAruzhan/static/js/main.8fd0d4e5.js",
     "static/js/787.cf482a7c.chunk.js": "/PortfolioAruzhan/static/js/787.cf482a7c.chunk.js",
     "static/media/helvetica-neu.ttf": "/PortfolioAruzhan/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/PortfolioAruzhan/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/PortfolioAruzhan/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/PortfolioAruzhan/index.html",
     "main.56e1328a.css.map": "/PortfolioAruzhan/static/css/main.56e1328a.css.map",
-    "main.ba1abba0.js.map": "/PortfolioAruzhan/static/js/main.ba1abba0.js.map",
+    "main.8fd0d4e5.js.map": "/PortfolioAruzhan/static/js/main.8fd0d4e5.js.map",
     "787.cf482a7c.chunk.js.map": "/PortfolioAruzhan/static/js/787.cf482a7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e1328a.css",
-    "static/js/main.ba1abba0.js"
+    "static/js/main.8fd0d4e5.js"
   ]
 }
