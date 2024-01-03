@@ -1,8 +1,8 @@
 import './index.scss'
 import LogoA from '../../../assets/images/logo-a.png'
 import { useEffect, useRef } from 'react';
-import DrawSVGPlugin from 'gsap/all';
-import gsap from 'gsap';
+import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin';
+import gsap from 'gsap-trial';
 
 const Logo = () => {
 
