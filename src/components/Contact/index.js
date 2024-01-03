@@ -21,7 +21,7 @@ const Contact = () => {
         emailjs
             .sendForm(
                 'service_ID',
-                'template_ID,
+                'template_ID',
                 refForm.current,
                 'PUBLIC API'
             )
