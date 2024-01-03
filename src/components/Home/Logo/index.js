@@ -36,7 +36,7 @@ const Logo = () => {
         )
     }, [])
 
-    // one holds logo, other one is transparent
+    {/* one holds logo, other one is transparent*/}
     return ( 
         <div className="logo-container" ref={bgRef}>
             <img ref={solidLogoRef} className="solid-logo" src={LogoA} alt="a"/>
