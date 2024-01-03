@@ -20,10 +20,10 @@ const Contact = () => {
 
         emailjs
             .sendForm(
-                'gmail',
-                'TEMPID',
+                'service_ID',
+                'template_ID,
                 refForm.current,
-                'userToken'
+                'PUBLIC API'
             )
             .then(
                 () => {
