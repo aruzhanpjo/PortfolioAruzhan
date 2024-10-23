@@ -9,7 +9,7 @@ import Loader from 'react-loaders';
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
     const nameArray = ['r', 'u', 'z', 'h', 'a', 'n'];
-    const jobArray = ['w', 'e', 'b', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.']
+    const jobArray = ['s', 'o', 'f', 't', 'w', 'a', 'r', 'e', ' ', 'e', 'n', 'g', 'i', 'n', 'e', 'e', 'r', '.']
 
     useEffect( () => {
         setTimeout(() => {
@@ -36,10 +36,16 @@ const Home = () => {
                 <br />
                 <AnimatedLetters letterClass={letterClass} 
                 strArray={jobArray} 
-                idx={22} />
+                idx={18} />
+
                 </h1>
-                <h2> Software engineer</h2>
+                <h2>Java | Python | Angular | .NET</h2>
+                
+                <a href="https://drive.google.com/file/d/1_DDV6boPqelJ26-gyz3t7EqWcFsD1eI4/view?usp=sharing" target="_blank" rel="noopener noreferrer" className='flat-button2'>VIEW RESUME</a>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
+                
+
+
             </div>
         <Logo />
         </div>

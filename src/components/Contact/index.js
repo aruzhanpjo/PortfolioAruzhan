@@ -49,7 +49,7 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                        I am interested in networking! So, don't hesitate to contact me!
+                        I am interested in networking! If you have a request or questions, don't hesitate to contact me using the form below.
                     </p>
 
                     <div className="contact-form">
@@ -91,14 +91,14 @@ const Contact = () => {
                     United States,
                     <br />
                     Mankato, MN <br />
-                    <span>betigenova.aruzhan@gmail.com</span>
+                    <span>aruzhan.betigenova@mnsu.edu</span>
 
                 </div>
 
                 <div className='map-wrap'>
-                    <MapContainer center={[44.96366, 19.61045]} zoom={13}>
+                    <MapContainer center={[44.14498675524845, -93.99716849177649]} zoom={13}>
                         <TileLayer url='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'/>
-                        <Marker position={[44.96366, 19.61045]} />
+                        <Marker position={[44.14498675524845, -93.99716849177649]} />
                     </MapContainer>
 
                 </div>

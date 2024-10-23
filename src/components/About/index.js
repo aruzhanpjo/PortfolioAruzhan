@@ -28,10 +28,17 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                    I am a sophomore college student studying Computer Science. 
+                I'm a dedicated Junior Computer Science Student with a strong focus on learning and applying technical skills. 
+                I actively engage in online learning and hands-on projects, including Web App Development using Angular, .NET, and JavaScript.
                 </p>
+
                 <p>
-                    I am a dedicated student interested in software development and web design.
+                I have completed 2 internships focused on SWE and I'm currently seeking an internship opportunity for Summer 2025. 
+                </p>
+
+                <p>
+                I'm committed to staying updated with the latest technology trends through tutorials and self-directed exploration.I have an unwavering drive to learn and create, and I'm eager to find opportunities to innovate, 
+                collaborate, and make a positive impact on the world.
                 </p>
 
             </div>

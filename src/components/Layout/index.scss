@@ -58,7 +58,7 @@
             font-size: 18px;
             position: absolute;
             margin-top: -10px;
-            left: -10px;
+            //left: 0px;
             opacity: 0.6;
             line-height: 18px;
         }
@@ -69,17 +69,17 @@
             font-size: 18px;
             line-height: 18px;
             position: absolute;
-            left: -30px;
+            left: 0px;
             bottom: -20px;
-            margin-left: 20px;
+            //margin-left: 10px;
             opacity: 0.6;
         }
     }
 
     p {
-        font-size: 13px;
+        font-size: 15px;
         color: #7c7373;
-        font-family: 'sans-serif';
+        font-family: 'Poppins';
         font-weight: 300;
         min-width: fit-content;
         animation: pulse 2s;
@@ -90,6 +90,10 @@
 
         &:nth-of-type(2){
             animation-delay: 1.2s;
+        }
+
+        &:nth-of-type(3){
+            animation-delay: 1.3s;
         }
     }
 
